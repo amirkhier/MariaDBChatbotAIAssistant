@@ -1,4 +1,4 @@
-streamlit==1.25.0         # For building the web UI
-mariadb==1.1.11           # For MariaDB database connection
-langchain-core==0.1.5     # Core LangChain library for NLP processing
-langchain-groq==0.1.5     # Groq integration for LangChain
+streamlit==1.25.0
+langchain-core==0.1.5
+langchain-groq==0.1.5
+mariadb==1.1.11
