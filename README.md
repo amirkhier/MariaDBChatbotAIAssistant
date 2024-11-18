@@ -100,10 +100,3 @@ This function takes the user's question and conversation history, generates the 
 The app uses Streamlit for UI, setting up a chat interface where users can interact with the database through questions and receive responses in real-time.
 
 
-
-
-
-## Contributions
-Feel free to open issues or submit pull requests to improve the application.
-
-
