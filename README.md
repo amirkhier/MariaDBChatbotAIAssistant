@@ -2,7 +2,8 @@
 
 A Streamlit-based application that provides an interactive chat interface for querying MariaDB databases using natural language. This app leverages the LangChain framework and ChatGroq model to translate user queries into SQL, making it accessible to users without SQL knowledge.
 ## Flow Diagram 
-![image](https://github.com/user-attachments/assets/efc5538a-aa88-452b-8f27-03d37e53bbb7)
+![Uploading image.png…]()
+
 ## Architect 
 ![image](https://github.com/user-attachments/assets/332d512b-8d42-447e-8e13-9361aeac28ca)
 
