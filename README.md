@@ -1,6 +1,10 @@
-# Chat with MariaDB Database
+![image](https://github.com/user-attachments/assets/80bcd2f3-140b-4307-88f7-49aabbbeccca)# Chat with MariaDB Database
 
 A Streamlit-based application that provides an interactive chat interface for querying MariaDB databases using natural language. This app leverages the LangChain framework and ChatGroq model to translate user queries into SQL, making it accessible to users without SQL knowledge.
+## Flow Diagram 
+![image](https://github.com/user-attachments/assets/efc5538a-aa88-452b-8f27-03d37e53bbb7)
+## Architect 
+![image](https://github.com/user-attachments/assets/332d512b-8d42-447e-8e13-9361aeac28ca)
 
 ## Features
 - **Interactive Chat**: Users can interact with the MariaDB database using natural language.
@@ -93,8 +97,9 @@ This function takes the user's question and conversation history, generates the 
 
 The app uses Streamlit for UI, setting up a chat interface where users can interact with the database through questions and receive responses in real-time.
 
-## Flow Diagram 
-![image](https://github.com/user-attachments/assets/efc5538a-aa88-452b-8f27-03d37e53bbb7)
+
+
+
 
 ## Contributions
 Feel free to open issues or submit pull requests to improve the application.
