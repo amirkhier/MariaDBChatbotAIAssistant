@@ -1,6 +1,5 @@
 python-dotenv
 streamlit
-mariadb
 langchain
 langchain-community
 langchain-core
