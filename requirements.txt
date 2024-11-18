@@ -1,6 +1,6 @@
 python-dotenv
 streamlit
-mariadb==1.1.5
+mariadb
 langchain-core
 openai
 langchain-openai
