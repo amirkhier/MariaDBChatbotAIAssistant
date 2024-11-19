@@ -6,7 +6,8 @@ A Streamlit-based application that provides an interactive chat interface for qu
 
 
 ## Architect 
-![image](https://github.com/user-attachments/assets/332d512b-8d42-447e-8e13-9361aeac28ca)
+![_דיאגרמה ללא שם_-_עמוד-3_ (1)](https://github.com/user-attachments/assets/f9aea8cd-a3be-4f5c-a799-3993c3a98580)
+
 
 ## Features
 - **Interactive Chat**: Users can interact with the MariaDB database using natural language.
